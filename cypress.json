@@ -1,3 +1,15 @@
 {
     
-}
+"defaultCommandTimeout":8000, 
+"pageLoadTimeout":30000,
+"reporter": "mochawesome",
+      
+  "projectId": "94vjki"
+
+
+  
+
+  }
+
+
+
